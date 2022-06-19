@@ -1,0 +1,34 @@
+{
+  "name": "bienesraices_mvc",
+  "version": "1.0.0",
+  "description": "proyecto realizado en el bootcamp de digital School ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebas-777/BienesRaices_MVC.git"
+  },
+  "keywords": [
+    "MVC",
+    "Pug",
+    "Tailwind",
+    "Mysql",
+    "Sequelize"
+  ],
+  "author": "sebas-777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebas-777/BienesRaices_MVC/issues"
+  },
+  "homepage": "https://github.com/sebas-777/BienesRaices_MVC#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
